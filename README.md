@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # 🤖 AI Automation Journey – MAC Matrix
 =======
 mac-ai
-
-# 🤖 AI Automation Journey – MAC Matrix ------ 
->>>>>>> 88d67fcebcb0204325920311392dc5c212e6d7d9
 
 > **Mission:** AI Automation Engineer
 
