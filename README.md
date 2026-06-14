@@ -1,6 +1,5 @@
-# 🤖 AI Automation Journey – MAC Matrix
-=======
-mac-ai
+
+mac-ai # 🤖 AI Automation Journey – MAC Matrix
 
 > **Mission:** AI Automation Engineer
 
@@ -137,17 +136,6 @@ mac-ai
 
 ---
 
-## ⚡ Quick Commands (for Claude)
-
-| Command | Action |
-|:---|:---|
-| `/answer Day [X]` | Get complete solution for Day X |
-| `/review` | Get feedback on your work or idea |
-| `What to do today?` | Show today's task |
-| `Show progress` | Show progress report |
-
----
-
 ## 🔗 Links
 
 - **GitHub Repository:** `github.com/trytolearncyber/ai-automation`
@@ -157,8 +145,5 @@ mac-ai
 
 ---
 
-<<<<<<< HEAD
-*Made with ⚡ for AI Automation Mastery*
-=======
 *Made with ⚡ for AI Automation Mastery*
 >>>>>>> 88d67fcebcb0204325920311392dc5c212e6d7d9
